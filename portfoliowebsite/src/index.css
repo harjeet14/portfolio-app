@@ -8,13 +8,13 @@
   text-decoration: none;
 }
 :root{
-  --color-bg : #003157;
+  --color-bg : #0a0152;
   --color-bg-variant:#2c2c6c;
   --color-primary:#37aad3;
-  --color-bg-variant:rgb(136, 170, 189);
-  --color-light:#fff;
+  --color-primary-variant:rgb(193, 193, 193);
+  --color-light:rgb(234, 226, 226);
   --transition: all 400ms ease;
---color-white:rgb(228, 228, 204);
+--color-white:#37aad3;
 --container-width-lg: 75%;
 --container-width-md: 86%;
 --container-width-sm: 90%;  
@@ -48,7 +48,7 @@ h1{
 }
 section{
   margin-top: 8rem;
-  height: 100vh;
+
 }
 section > h2, section >h5{
   text-align: center;
@@ -88,7 +88,7 @@ color: var(--color-bg);
 }
 img{
   display: block;
-  width: 80%;
+  width: 100%;
   object-fit: cover;
 }
 /* ===media queries(medium devices)==*/
