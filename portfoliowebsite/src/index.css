@@ -8,13 +8,13 @@
   text-decoration: none;
 }
 :root{
-  --color-bg : #0a0152;
-  --color-bg-variant:#2c2c6c;
-  --color-primary:#37aad3;
-  --color-primary-variant:rgb(193, 193, 193);
-  --color-light:rgb(234, 226, 226);
+  --color-bg : #ffffff;
+  --color-bg-variant:#847290;
+  --color-primary:#623d71;
+  --color-primary-variant:rgb(163, 159, 159);
+  --color-light:rgb(252, 243, 243);
   --transition: all 400ms ease;
---color-white:#37aad3;
+--color-white:#5a0482;
 --container-width-lg: 75%;
 --container-width-md: 86%;
 --container-width-sm: 90%;  

@@ -2,7 +2,7 @@ import React from 'react'
 import './services.css'
 function Services() {
   return (
-    <section id='services'></section>
+    <section id='services'>services</section>
   )
 }
 

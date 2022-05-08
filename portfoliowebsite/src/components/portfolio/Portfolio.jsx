@@ -14,7 +14,7 @@ function Portfolio() {
           </div>
           <h3>Healthy Eats</h3>
           <div className='portfolio_item-acc'>
-            <a href='https://github.com' className='btn'>Github</a>
+            <a href='https://github.com/harjeet14/healthy-eats' className='btn'>Github</a>
           </div>
 
         </article>
@@ -22,9 +22,9 @@ function Portfolio() {
           <div className='portfolio_item-image'>
             <img src={Ec} alt="project-image" />
           </div>
-          <h3>Healthy Eats</h3>
+          <h3>Lotide</h3>
           <div className='portfolio_item-acc'>
-            <a href='https://github.com' className='btn'>Github</a>
+            <a href='https://github.com/harjeet14/lotide' className='btn'>Github</a>
           </div>
 
         </article>
@@ -32,9 +32,9 @@ function Portfolio() {
           <div className='portfolio_item-image'>
             <img src={Ec} alt="project-image" />
           </div>
-          <h3>Healthy Eats</h3>
+          <h3>Interview Scheduler</h3>
           <div className='portfolio_item-acc'>
-            <a href='https://github.com' className='btn'>Github</a>
+            <a href='https://github.com/harjeet14/scheduler' className='btn'>Github</a>
           </div>
 
         </article>
@@ -42,9 +42,9 @@ function Portfolio() {
           <div className='portfolio_item-image'>
             <img src={Ec} alt="project-image" />
           </div>
-          <h3>Healthy Eats</h3>
+          <h3>Tiny App</h3>
           <div className='portfolio_item-acc'>
-            <a href='https://github.com' className='btn'>Github</a>
+            <a href='https://github.com/harjeet14/tinyapp' className='btn'>Github</a>
           </div>
 
         </article>
@@ -52,9 +52,9 @@ function Portfolio() {
           <div className='portfolio_item-image'>
             <img src={Ec} alt="project-image" />
           </div>
-          <h3>Healthy Eats</h3>
+          <h3>Resource Wall</h3>
           <div className='portfolio_item-acc'>
-            <a href='https://github.com' className='btn'>Github</a>
+            <a href='https://github.com/harjeet14/Resource_Wall' className='btn'>Github</a>
           </div>
 
         </article>
@@ -62,9 +62,9 @@ function Portfolio() {
           <div className='portfolio_item-image'>
             <img src={Ec} alt="project-image" />
           </div>
-          <h3>Healthy Eats</h3>
+          <h3><strong>Jungle</strong></h3>
           <div className='portfolio_item-acc'>
-            <a href='https://github.com' className='btn'>Github</a>
+            <a href='https://github.com/harjeet14/jungle' className='btn'>Github</a>
           </div>
 
         </article>

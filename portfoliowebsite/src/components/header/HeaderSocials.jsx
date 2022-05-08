@@ -5,8 +5,8 @@ import { CgMail } from 'react-icons/cg'
 function HeaderSocials() {
   return (
     <div className='header_socials'>
-      <a href='https.linkedin.com' target="_blank"><FiLinkedin /></a>
-      <a href='https.github.com' target="_blank"><BsGithub /></a>
+      <a href='https://www.linkedin.com/in/harjeet-kaur-373675146/' target="_blank"><FiLinkedin /></a>
+      <a href='https://github.com/harjeet14' target="_blank"><BsGithub /></a>
       <a href='https.gmail.com' target="_blank"><CgMail /></a>
     </div>
   )
