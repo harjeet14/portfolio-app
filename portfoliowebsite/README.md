@@ -6,15 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
   # Home
-  !["homepage.png"]()
+  !["homepage.png"](https://github.com/harjeet14/portfolio-app/blob/main/portfoliowebsite/Doc/homepage.png)
   # About Me
-  !["aboutMe.png"]()
+  !["aboutMe.png"](https://github.com/harjeet14/portfolio-app/blob/main/portfoliowebsite/Doc/aboutMe.png)
   # Experience
-  !["experience.png"]()
+  !["experience.png"](https://github.com/harjeet14/portfolio-app/blob/main/portfoliowebsite/Doc/experience.png)
   # Project
-  !["project.png"]()
+  !["project.png"](https://github.com/harjeet14/portfolio-app/blob/main/portfoliowebsite/Doc/project.png)
   # Contact
-  !["contact.png"]()
+  !["contact.png"](https://github.com/harjeet14/portfolio-app/blob/main/portfoliowebsite/Doc/contact.png)
 
 ### `npm start`
 
